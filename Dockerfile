@@ -1,6 +1,6 @@
 FROM ayiinxd/ayiin-userbot:buster
 
-RUN git clone -b Ayiin-Userbot https://github.com/kakascrew/kakas-Userbot /home/ayiinuserbot/ \
+RUN git clone -b Ayiin-Userbot https://github.com/kakaabiezz/kakas-Userbot /home/ayiinuserbot/ \
     && chmod 777 /home/ayiinuserbot \
     && mkdir /home/ayiinuserbot/bin/
 
